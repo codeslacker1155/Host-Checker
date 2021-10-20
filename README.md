@@ -3,8 +3,7 @@ This is a simple program that takes the input of the target host and uses Nmap, 
 
 ## Description
 
-This is a simple program that ask the user to enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
-The program is a static command line program that shows the user in a visual fashion how many vowels are in the user's suplied text.
+This is a simple program that takes the input of the target host and uses Nmap, GoBuster, and WhatWeb to scan the target host. The program is a static command line program that shows the user in a visual fashion what ports are open, the directories of the server, and the WhatWeb report (WHOIS) of the host.
 
 ## Getting Started
 
